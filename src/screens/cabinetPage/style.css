@@ -1,0 +1,23 @@
+.transferForm {
+	position: relative;
+}
+
+.targetPlace {
+	position: absolute;
+	box-shadow: 0px 2px 9px -4px rgba(0,0,0,.7);
+	padding: 0 10px;
+	height: 100px;
+	overflow: hidden;
+	overflow-y: scroll;
+	top: 48px;
+	min-width: 130px;
+}
+
+
+.targetPlace.close {
+	display: none;
+}
+
+.targetPlace.open {
+	display: block;
+}

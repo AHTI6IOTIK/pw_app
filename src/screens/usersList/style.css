@@ -1,0 +1,15 @@
+.usersList {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.usersList--item {
+	width: 15%;
+	padding: 10px;
+	border: 1px solid lightgray;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	margin: 0 10px 10px 0;
+}

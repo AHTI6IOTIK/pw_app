@@ -1,0 +1,8 @@
+.registerBlock {
+	border-bottom: 1px dashed lightgreen;
+}
+
+.registerBlock > * {
+	display: block;
+	margin-top: 10px;
+}

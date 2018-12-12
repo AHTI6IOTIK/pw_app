@@ -1,0 +1,8 @@
+.authBlock {
+	border-bottom: 1px dashed lightgreen;
+}
+
+.authBlock > * {
+	display: block;
+	margin-top: 10px;
+}

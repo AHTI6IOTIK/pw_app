@@ -1,0 +1,28 @@
+/api/Api.php:53
+Array
+(
+    [action] => authorize
+    [c] => user
+    [user_data] => Array
+        (
+            [email] => user222
+            [password] => pass222
+        )
+
+    [user_data[email]] => user222
+    [user_data[password]] => pass222
+)
+
+/api/Api.php:54
+Array
+(
+    [action] => authorize
+    [c] => user
+    [user_data] => Array
+        (
+            [email] => user222
+            [password] => pass222
+        )
+
+)
+
